@@ -1,2 +1,2 @@
 # manipulacao3d
-Manipulação 3D de objetos.
+Sistema de manipulação 3D de objetos, os objetos para teste estão na pasta "objetos".
