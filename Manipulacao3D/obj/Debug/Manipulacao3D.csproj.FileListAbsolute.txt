@@ -1,0 +1,48 @@
+F:\Arquivos\Facul\6 TERMO\CG\2BIM\Manipulacao3D\Manipulacao3D\bin\Debug\Manipulacao3D.exe.config
+F:\Arquivos\Facul\6 TERMO\CG\2BIM\Manipulacao3D\Manipulacao3D\bin\Debug\Manipulacao3D.exe
+F:\Arquivos\Facul\6 TERMO\CG\2BIM\Manipulacao3D\Manipulacao3D\bin\Debug\Manipulacao3D.pdb
+F:\Arquivos\Facul\6 TERMO\CG\2BIM\Manipulacao3D\Manipulacao3D\obj\Debug\Manipulacao3D.csprojResolveAssemblyReference.cache
+F:\Arquivos\Facul\6 TERMO\CG\2BIM\Manipulacao3D\Manipulacao3D\obj\Debug\Manipulacao3D.FormOBJ.resources
+F:\Arquivos\Facul\6 TERMO\CG\2BIM\Manipulacao3D\Manipulacao3D\obj\Debug\Manipulacao3D.Properties.Resources.resources
+F:\Arquivos\Facul\6 TERMO\CG\2BIM\Manipulacao3D\Manipulacao3D\obj\Debug\Manipulacao3D.csproj.GenerateResource.Cache
+F:\Arquivos\Facul\6 TERMO\CG\2BIM\Manipulacao3D\Manipulacao3D\obj\Debug\Manipulacao3D.exe
+F:\Arquivos\Facul\6 TERMO\CG\2BIM\Manipulacao3D\Manipulacao3D\obj\Debug\Manipulacao3D.pdb
+J:\Arquivos\Facul\6 TERMO\CG\2BIM\Manipulacao3D\Manipulacao3D\bin\Debug\Manipulacao3D.exe.config
+J:\Arquivos\Facul\6 TERMO\CG\2BIM\Manipulacao3D\Manipulacao3D\obj\Debug\Manipulacao3D.exe
+J:\Arquivos\Facul\6 TERMO\CG\2BIM\Manipulacao3D\Manipulacao3D\obj\Debug\Manipulacao3D.pdb
+J:\Arquivos\Facul\6 TERMO\CG\2BIM\Manipulacao3D\Manipulacao3D\obj\Debug\Manipulacao3D.csprojResolveAssemblyReference.cache
+J:\Arquivos\Facul\6 TERMO\CG\2BIM\Manipulacao3D\Manipulacao3D\obj\Debug\Manipulacao3D.FormOBJ.resources
+J:\Arquivos\Facul\6 TERMO\CG\2BIM\Manipulacao3D\Manipulacao3D\obj\Debug\Manipulacao3D.Properties.Resources.resources
+J:\Arquivos\Facul\6 TERMO\CG\2BIM\Manipulacao3D\Manipulacao3D\obj\Debug\Manipulacao3D.csproj.GenerateResource.Cache
+J:\Arquivos\Facul\6 TERMO\CG\2BIM\Manipulacao3D\Manipulacao3D\bin\Debug\Manipulacao3D.exe
+J:\Arquivos\Facul\6 TERMO\CG\2BIM\Manipulacao3D\Manipulacao3D\bin\Debug\Manipulacao3D.pdb
+F:\Arquivos\Facul\6 TERMO\CG\2BIM\Manipulacao3D 2.0\Manipulacao3D\bin\Debug\Manipulacao3D.exe.config
+F:\Arquivos\Facul\6 TERMO\CG\2BIM\Manipulacao3D 2.0\Manipulacao3D\obj\Debug\Manipulacao3D.exe
+F:\Arquivos\Facul\6 TERMO\CG\2BIM\Manipulacao3D 2.0\Manipulacao3D\obj\Debug\Manipulacao3D.pdb
+F:\Arquivos\Facul\6 TERMO\CG\2BIM\Manipulacao3D 2.0\Manipulacao3D\bin\Debug\Manipulacao3D.exe
+F:\Arquivos\Facul\6 TERMO\CG\2BIM\Manipulacao3D 2.0\Manipulacao3D\bin\Debug\Manipulacao3D.pdb
+F:\Arquivos\Facul\6 TERMO\CG\2BIM\Manipulacao3D 2.0\Manipulacao3D\obj\Debug\Manipulacao3D.csprojResolveAssemblyReference.cache
+F:\Arquivos\Facul\6 TERMO\CG\2BIM\Manipulacao3D 2.0\Manipulacao3D\obj\Debug\Manipulacao3D.FormOBJ.resources
+F:\Arquivos\Facul\6 TERMO\CG\2BIM\Manipulacao3D 2.0\Manipulacao3D\obj\Debug\Manipulacao3D.Properties.Resources.resources
+F:\Arquivos\Facul\6 TERMO\CG\2BIM\Manipulacao3D 2.0\Manipulacao3D\obj\Debug\Manipulacao3D.csproj.GenerateResource.Cache
+E:\Arquivos\Facul\6 TERMO\CG\2BIM\Manipulacao3D 2.0\Manipulacao3D\bin\Debug\Manipulacao3D.exe.config
+E:\Arquivos\Facul\6 TERMO\CG\2BIM\Manipulacao3D 2.0\Manipulacao3D\obj\Debug\Manipulacao3D.exe
+E:\Arquivos\Facul\6 TERMO\CG\2BIM\Manipulacao3D 2.0\Manipulacao3D\obj\Debug\Manipulacao3D.pdb
+E:\Arquivos\Facul\6 TERMO\CG\2BIM\Manipulacao3D 2.0\Manipulacao3D\obj\Debug\Manipulacao3D.csprojResolveAssemblyReference.cache
+E:\Arquivos\Facul\6 TERMO\CG\2BIM\Manipulacao3D 2.0\Manipulacao3D\obj\Debug\Manipulacao3D.FormOBJ.resources
+E:\Arquivos\Facul\6 TERMO\CG\2BIM\Manipulacao3D 2.0\Manipulacao3D\obj\Debug\Manipulacao3D.Properties.Resources.resources
+E:\Arquivos\Facul\6 TERMO\CG\2BIM\Manipulacao3D 2.0\Manipulacao3D\obj\Debug\Manipulacao3D.csproj.GenerateResource.Cache
+E:\Arquivos\Facul\6 TERMO\CG\2BIM\Manipulacao3D 2.0\Manipulacao3D\bin\Debug\Manipulacao3D.exe
+E:\Arquivos\Facul\6 TERMO\CG\2BIM\Manipulacao3D 2.0\Manipulacao3D\bin\Debug\Manipulacao3D.pdb
+J:\Arquivos\Facul\6 TERMO\CG\2BIM\Manipulacao3D 2.0\Manipulacao3D\bin\Debug\Manipulacao3D.exe.config
+J:\Arquivos\Facul\6 TERMO\CG\2BIM\Manipulacao3D 2.0\Manipulacao3D\obj\Debug\Manipulacao3D.exe
+J:\Arquivos\Facul\6 TERMO\CG\2BIM\Manipulacao3D 2.0\Manipulacao3D\obj\Debug\Manipulacao3D.pdb
+J:\Arquivos\Facul\6 TERMO\CG\2BIM\Manipulacao3D 2.0\Manipulacao3D\bin\Debug\Manipulacao3D.exe
+J:\Arquivos\Facul\6 TERMO\CG\2BIM\Manipulacao3D 2.0\Manipulacao3D\bin\Debug\Manipulacao3D.pdb
+J:\Arquivos\Facul\6 TERMO\CG\2BIM\Manipulacao3D 2.0\Manipulacao3D\obj\Debug\Manipulacao3D.csprojResolveAssemblyReference.cache
+J:\Arquivos\Facul\6 TERMO\CG\2BIM\Manipulacao3D 2.0\Manipulacao3D\obj\Debug\Manipulacao3D.FormOBJ.resources
+J:\Arquivos\Facul\6 TERMO\CG\2BIM\Manipulacao3D 2.0\Manipulacao3D\obj\Debug\Manipulacao3D.Properties.Resources.resources
+J:\Arquivos\Facul\6 TERMO\CG\2BIM\Manipulacao3D 2.0\Manipulacao3D\obj\Debug\Manipulacao3D.csproj.GenerateResource.Cache
+G:\Arquivos\Facul\6 TERMO\CG\2BIM\Manipulacao3D 2.0\Manipulacao3D\bin\Debug\Manipulacao3D.exe.config
+G:\Arquivos\Facul\6 TERMO\CG\2BIM\Manipulacao3D 2.0\Manipulacao3D\obj\Debug\Manipulacao3D.exe
+G:\Arquivos\Facul\6 TERMO\CG\2BIM\Manipulacao3D 2.0\Manipulacao3D\obj\Debug\Manipulacao3D.pdb
